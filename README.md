@@ -6,3 +6,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloArtty&show_icons=true&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?HelloArtty=willianrod)](https://github.com/anuraghazra/github-readme-stats)
