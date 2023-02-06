@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.instagram.com/ctwsk.__a/">HelloArtty</a>.<br> I'm Cat.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
+  <samp>Hello there. I'm <a href="https://www.instagram.com/ctwsk.__a/">HelloArtty</a>.<br> I'm Cat.<br><br>#python, #C++, #HTML, #CSS</samp>
   <br>
   <br>
   <br>
@@ -11,4 +11,4 @@
 </p>
 
 ------------
-<p align="center">⭐️ From <a href="https://github.com/HelloArtty>@HelloArtty</a></p>
+<p align="center">⭐️ From <a href="https://github.com/HelloArtty">@HelloArtty</a></p>
