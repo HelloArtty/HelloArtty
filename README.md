@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.instagram.com/ctwsk.__a/">HelloArtty</a>.<br> I'm Cat.<br><br>#python, #C++, #HTML, #CSS</samp>
+  <samp>Hello there. I'm <a href="https://www.instagram.com/ctwsk.__a/">HelloArtty</a>.<br> I'm Cat.<br><br>#Python, #C++, #HTML, #CSS</samp>
   <br>
   <br>
   <br>
