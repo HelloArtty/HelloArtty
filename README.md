@@ -14,6 +14,6 @@
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="50" /> -->
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,git,php,github,figma,powershell" /><a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,php,github,figma,react,next,node" /><a>
 </p>
   </h3>
