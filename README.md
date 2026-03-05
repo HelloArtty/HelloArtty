@@ -1,19 +1,22 @@
-<h3 align="center">
-  <br>Hello there.⭐
-  <br>
-  <samp>I'm <a href="https://www.instagram.com/ctwsk.__a/">Chaithawat</a>.❤️
-  <br> I'm Com Sci Student.
-  <br>
-  <img src="https://media3.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=790b76111a687a396138a8fcccb967b842741054f92aa369&rid=giphy.gif&ct=s" width="250" />
-  <br>
-  <p align="center">My Skills😼</p>
-<!--   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" />
-  <img src="https://www.pngmart.com/files/7/Python-PNG-File.png" width="50" /> -->
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="50" /> -->
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,notion,unity,ts,cpp,py,react,next,tailwind,nodejs,express,mongodb,supabase,docker,kali," /><a>
-</p>
-  </h3>
+### 👨‍💻 Introduction
+Hey! I'm **Chaithawat**, an Applied Computer Science student at **KMUTT**. I am a dedicated **UX/UI Designer & Developer** who bridges the gap between creative design and technical implementation.
+
+---
+
+### 🚀 Professional Summary
+* 🎓 **Education:** Applied Computer Science @**KMUTT**
+* 💼 **Experience:** UX/UI Designer Internship @**CANS**
+* 🎯 **Goal:** Seeking opportunities as a **UX/UI Designer** or **Associate Product Owner**.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) `Framer` `Aseprite` |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| **Backend & DB** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) |
+| **Languages & Ops** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white) |
+
+---
