@@ -37,4 +37,4 @@ I am a dedicated **UX/UI Designer & Developer** who bridges the gap between crea
 
 ### 🤝 Let's Connect
 - 🌍 Website: [chaithawat.com](https://chaithawat.com)
-- 💼 LinkedIn: [Chaithawat Saklang](www.linkedin.com/in/chaithawat-saklang-13a034345)
+- 💼 LinkedIn: [Chaithawat Saklang](https://www.linkedin.com/in/chaithawat-saklang-13a034345/)
